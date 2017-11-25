@@ -9,8 +9,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/mmatczuk/go-http-tunnel/id"
-	"github.com/mmatczuk/go-http-tunnel/log"
+	"github.com/abh/go-http-tunnel/id"
+	"github.com/abh/go-http-tunnel/log"
 )
 
 // RegistryItem holds information about hosts and listeners associated with a
